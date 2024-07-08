@@ -575,6 +575,16 @@ body {
   gap: 4px;
 }
 
+.link__web{
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.link__web:hover{
+  color: var(--on-surface);
+}
+
 /*-----------------------------------*\
   #PROJECT
 \*-----------------------------------*/
